@@ -1,10 +1,10 @@
-
+import Skills from "@/components/Skills";
+import Experience from "@/components/Experience";
 export default function Home() {
   return (
     <>
-     <div>
-      
-     </div>
+      <Skills/>
+      <Experience/>
     </>
   );
 }
